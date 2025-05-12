@@ -1,0 +1,510 @@
+/* Basic Reset & Defaults */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f7f6; /* Light gray background for the page */
+    height: 100%;
+    overflow: hidden; /* Prevent scrollbars on body due to map/sidebar layout on desktop */
+}
+
+body {
+    display: flex; /* Use flexbox for layout */
+    height: 100vh; /* Full viewport height */
+}
+
+#sidebar {
+    width: 350px;
+    background-color: #ffffff; /* Cleaner white background for sidebar */
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100vh; /* Full viewport height */
+    overflow-y: auto; /* Allow scrolling within the sidebar if content overflows */
+    /* float: left; Removed, flexbox handles this */
+    position: relative; /* Added: Establishes positioning context for the detail panel */
+    overflow-x: hidden; /* Added: Prevents horizontal scrollbar from hidden detail panel */
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.08); /* Subtle shadow for depth */
+    z-index: 10; /* Ensure sidebar is above map if any overlap issues (though flex should prevent) */
+}
+
+h2, h3 { /* General heading styling */
+    color: #2c3e50; /* Darker, more modern heading color */
+    margin-top: 0;
+}
+
+#sidebar h2 {
+    font-size: 1.6em; /* Slightly larger title */
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+#filters {
+    padding: 10px 0;
+    margin-bottom: 15px; /* Increased spacing */
+    border-bottom: 1px solid #ccc;
+}
+
+.filter-group {
+    margin-bottom: 15px;
+}
+
+.filter-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 0.95em; /* Slightly larger label */
+    color: #555; /* Softer color for labels */
+}
+
+.filter-group select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+/* Styles for Custom Select Dropdown */
+.custom-select-wrapper {
+    position: relative;
+    width: 100%;
+    -webkit-user-select: none; /* Safari, Chrome, Opera */
+    -moz-user-select: none;    /* Firefox */
+    -ms-user-select: none;     /* IE 10+, Edge */
+    user-select: none;         /* Standard */
+}
+
+.custom-select {
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.custom-select-trigger {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px; /* Increased padding */
+    min-height: 20px; /* Ensure consistent height like a select */
+}
+
+.custom-select-trigger span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.arrow {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #555; /* Arrow color */
+    transition: transform 0.2s ease;
+}
+
+.custom-select.open .arrow {
+    transform: rotate(180deg);
+}
+
+.custom-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+    z-index: 100; /* Ensure it appears above other elements, increased from 10 */
+    max-height: 200px;
+    overflow-y: auto;
+    display: none; /* Hidden by default */
+}
+
+.custom-select.open .custom-options {
+    display: block;
+}
+
+.custom-option {
+    display: flex;
+    align-items: center;
+    padding: 10px 12px; /* Increased padding */
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.custom-option:hover {
+    background-color: #eef5fa; /* Lighter hover color */
+}
+
+.custom-option .color-swatch {
+    width: 15px;
+    height: 15px;
+    border-radius: 3px;
+    margin-right: 8px;
+    flex-shrink: 0; /* Prevent swatch from shrinking */
+    border: 1px solid #eee; /* Optional: adds a light border to swatches */
+}
+
+.custom-option span {
+    white-space: nowrap;
+}
+
+#court-list-container {
+    flex-grow: 1; /* Allows this container to take available space */
+    overflow-y: auto; /* Scroll for court list items */
+    margin-top: 10px; /* Adjusted margin */
+    /* max-height: calc(100vh - 250px); Removed: flex-grow should handle this better */
+}
+
+.court-list-item {
+    padding: 12px 10px; /* Increased padding */
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.court-list-item:hover {
+    background-color: #eef5fa; /* Consistent light blue hover */
+}
+
+.court-list-item h4 {
+    margin: 0 0 5px 0;
+    font-size: 1.05em;
+    color: #007bff; /* Use brand color for court names */
+}
+
+.court-list-item p {
+    margin: 0;
+    font-size: 0.9em; /* Slightly larger for readability */
+    color: #555;
+}
+
+#map-container { /* New container for map and controls */
+    flex-grow: 1; /* Takes remaining width */
+    height: 100vh;
+    position: relative; /* For positioning controls inside */
+    display: flex; /* Added to manage children like map */
+    flex-direction: column; /* Stack controls and map if needed, or just for map to fill */
+}
+
+#map {
+    position: absolute;
+    top: 60px; /* Adjust based on controls height */
+    bottom: 0;
+    left: 0; /* Relative to #map-container */
+    width: 100%;
+    /* height will be 100% of (map-container height - controls height) */
+}
+
+#controls {
+    position: absolute; /* Changed from absolute to relative to #map-container */
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.95); /* Slightly transparent white */
+    padding: 10px;
+    box-sizing: border-box;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-bottom: 1px solid #ccc;
+    /* Assuming controls have a somewhat fixed height that pushes map down by 60px */
+    /* If height is dynamic, #map top positioning needs to be dynamic too */
+    min-height: 40px; /* Ensure it has some height, actual height by content or fixed */
+}
+
+button, #controls button { /* General button styling */
+    padding: 10px 15px;
+    background-color: #007bff; /* Default blue */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.95em;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, #controls button:hover {
+    background-color: #0056b3;
+}
+
+/* Specifics for controls button if needed, e.g. smaller padding */
+#controls button {
+    padding: 8px 12px;
+}
+
+#controls div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+#controls label {
+    font-size: 0.9em;
+}
+
+#controls input[type="range"] {
+    cursor: pointer;
+    flex-grow: 1; /* Allow range to take available space if in a flex container */
+}
+
+.maplibregl-popup {
+    max-width: 300px; /* Increased max-width */
+    font-size: 0.9em;
+}
+
+.maplibregl-popup-content {
+    padding: 15px; /* Increased padding */
+    background-color: #fff;
+    border-radius: 5px; /* Slightly more rounded */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15); /* Enhanced shadow */
+}
+
+.maplibregl-popup-content h3 {
+    margin: 0 0 8px 0;
+    font-size: 1.2em; /* Slightly larger */
+    color: #007bff; /* Brand color for title */
+}
+
+.maplibregl-popup-content p {
+    margin: 0 0 5px 0; /* Added bottom margin */
+    line-height: 1.4;
+}
+
+.maplibregl-popup-content strong {
+    color: #333;
+}
+
+.popup-directions-link {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 5px 10px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+.popup-directions-link:hover {
+    background-color: #218838;
+}
+
+/* Styles for the new Court Detail Panel */
+#court-detail-panel {
+    position: absolute; /* Or fixed, depending on desired behavior relative to sidebar scroll */
+    top: 0;
+    right: -350px; /* Start off-screen to the right of the sidebar */
+    width: 330px; /* Slightly less than sidebar to show it's an overlay */
+    height: 100%;
+    background-color: #f9f9f9;
+    border-left: 1px solid #ccc;
+    box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+    padding: 10px;
+    transition: right 0.3s ease-in-out;
+    z-index: 1001; /* Ensure it's above the main sidebar content if overlapping */
+    overflow-y: auto;
+    box-sizing: border-box;
+}
+
+#court-detail-panel.court-detail-panel-visible {
+    right: 0; /* Slide in from the right */
+}
+
+#court-detail-panel h3 {
+    margin-top: 0;
+    color: #333;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+#court-detail-content p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+#court-detail-content strong {
+    color: #555;
+}
+
+#close-detail-panel-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    float: right;
+}
+
+#close-detail-panel-btn:hover {
+    background-color: #c0392b;
+}
+
+.get-directions-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #28a745; /* Green color */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.get-directions-link:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+/* Styles for Min. Courts filter options */
+.min-courts-options {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Spacing between options */
+    margin-top: 5px;
+}
+
+.min-court-option {
+    display: inline-flex; /* Use flex to center content (the number) */
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 50%; /* Makes it a circle */
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+    background-color: #f0f0f0; /* Default background color for circles */
+    color: #333; /* Default text color for numbers inside circles */
+    font-size: 0.8em; /* Font size for numbers in circles */
+    font-weight: bold; /* Make numbers bold */
+    /* Ensure width/height are set by specific size classes like .court-size-1 */
+}
+
+.min-court-option:hover {
+    background-color: #e0e0e0;
+    border-color: #bbb;
+}
+
+.min-court-option.active {
+    background-color: #007bff; /* Background color for active circle */
+    color: white; /* Text color for active circle */
+    border-color: #0056b3;
+}
+
+/* "Any" option styling (not a circle, but uses .min-court-option as base) */
+.min-court-option[data-value="0"] {
+    border-radius: 4px; /* Keep it slightly rounded, but not a circle */
+    padding: 5px 8px;
+    font-size: 0.9em; /* Slightly larger font for "Any" text */
+    line-height: 1.2; /* Adjust line height for non-circle */
+    /* It will inherit background-color and color from .min-court-option */
+    /* and .min-court-option.active when active */
+}
+
+/* Sizes for the circle options */
+.min-court-option.court-size-1 {
+    width: 16px;
+    height: 16px;
+}
+
+.min-court-option.court-size-2 {
+    width: 20px;
+    height: 20px;
+}
+
+.min-court-option.court-size-3 {
+    width: 24px;
+    height: 24px;
+}
+
+.min-court-option.court-size-4 {
+    width: 28px;
+    height: 28px;
+}
+
+.min-court-option.court-size-6 {
+    width: 32px;
+    height: 32px;
+}
+
+.min-court-option.court-size-8 {
+    width: 36px;
+    height: 36px;
+}
+
+/* Responsive Design */
+
+/* For tablets and smaller desktops */
+@media (max-width: 1024px) {
+    #sidebar {
+        width: 300px;
+    }
+    #controls {
+        /* Adjust if controls content might wrap or need more space */
+        padding: 8px 10px;
+        gap: 10px;
+    }
+}
+
+/* For mobile devices */
+@media (max-width: 767px) {
+    body {
+        flex-direction: column; /* Stack sidebar and map */
+        overflow-y: auto; /* Allow body to scroll on mobile */
+        height: auto; /* Allow body to grow with content */
+    }
+
+    #sidebar {
+        width: 100%; /* Full width */
+        height: auto; /* Auto height based on content */
+        max-height: 40vh; /* Limit sidebar height, make it scrollable */
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        order: 1; /* Sidebar appears first */
+        padding-bottom: 10px; /* Space before map */
+        border-bottom: 1px solid #ddd; /* Separator */
+    }
+
+    #map-container {
+        order: 2; /* Map appears after sidebar */
+        width: 100%;
+        height: 60vh; /* Map takes a good portion of the screen */
+        min-height: 300px; /* Minimum height for the map */
+    }
+
+    /* #map top: 60px is still relative to #map-container, which is now 60vh. This should be fine. */
+
+    #controls {
+        /* Controls are already position: absolute, top: 0 within map-container. */
+        /* This will work, but ensure content fits well. */
+        padding: 8px;
+        gap: 8px;
+        min-height: auto; /* Let content define height */
+    }
+    #controls button {
+        padding: 6px 10px;
+        font-size: 0.9em;
+    }
+    #controls label {
+        font-size: 0.85em;
+    }
+    #controls input[type="range"] {
+        max-width: 120px; /* Prevent slider from being too long on mobile */
+    }
+
+    /* Adjust court detail panel for mobile if it's too wide or behavior is odd */
+}

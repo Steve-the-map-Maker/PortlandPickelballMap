@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pickleball Courts Map</title>
+    <link href='https://unpkg.com/maplibre-gl@4.1.3/dist/maplibre-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="sidebar">
+        <h2>Nearby Courts</h2>
+        
+        <div id="filters">
+            <div class="filter-group">
+                <label for="court-type-filter">Court Type:</label>
+                <div class="custom-select-wrapper">
+                    <div id="custom-court-type-filter" class="custom-select">
+                        <div class="custom-select-trigger">
+                            <span>Any</span>
+                            <div class="arrow"></div>
+                        </div>
+                        <div class="custom-options">
+                            <div class="custom-option" data-value="any">
+                                <span>Any</span>
+                            </div>
+                            <div class="custom-option" data-value="indoor">
+                                <span class="color-swatch" style="background-color: #3498db;"></span>
+                                <span>Indoor</span>
+                            </div>
+                            <div class="custom-option" data-value="outdoor">
+                                <span class="color-swatch" style="background-color: #2ecc71;"></span>
+                                <span>Outdoor</span>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" id="court-type-filter-value" name="court-type-filter-value" value="any">
+                </div>
+            </div>
+            <div class="filter-group">
+                <label for="min-courts-filter-value">Min. Courts:</label>
+                <div id="min-courts-options-container" class="min-courts-options">
+                    <span class="min-court-option active" data-value="0" title="Any">Any</span>
+                    <span class="min-court-option court-size-1" data-value="1" title="1+">1</span>
+                    <span class="min-court-option court-size-2" data-value="2" title="2+">2</span>
+                    <span class="min-court-option court-size-3" data-value="3" title="3+">3</span>
+                    <span class="min-court-option court-size-4" data-value="4" title="4+">4</span>
+                    <span class="min-court-option court-size-6" data-value="6" title="6+">6</span>
+                    <span class="min-court-option court-size-8" data-value="8" title="8+">8</span>
+                </div>
+                <input type="hidden" id="min-courts-filter-value" name="min-courts-filter-value" value="0">
+            </div>
+        </div>
+
+        <div id="court-list-container">
+            <!-- Court list will be dynamically populated here -->
+        </div>
+
+        <div id="court-detail-panel">
+            <h3>Court Details</h3>
+            <button id="close-detail-panel-btn">Close</button>
+            <div id="court-detail-content">
+                <!-- Details will be populated here by ui.js -->
+            </div>
+        </div>
+    </div>
+
+    <div id="map-container"> 
+        <div id="controls">
+            <button id="find-nearby-btn">Find Courts Near Me</button>
+            <div>
+                <label for="distance-slider">Distance: <span id="distance-value">10</span> km</label>
+                <input type="range" id="distance-slider" min="1" max="100" value="10">
+            </div>
+        </div>
+        <div id="map"></div>
+    </div>
+
+    <script src='https://unpkg.com/maplibre-gl@4.1.3/dist/maplibre-gl.js'></script>
+    <script src="js/dataLoader.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/ui.js"></script>
+    <script>
+        // Main application logic will go here, or be called from map.js
+        document.addEventListener('DOMContentLoaded', () => {
+            initializeMap(); // This function will be defined in map.js
+        });
+    </script>
+</body>
+</html>
