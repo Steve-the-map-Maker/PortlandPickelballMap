@@ -45,7 +45,7 @@ function initializeMap() {
     });
 
     map.on('load', async () => {
-        const geojsonData = await loadGeoJSONData('../data/PortlandPickelBallData.geojson');
+        const geojsonData = await loadGeoJSONData('data/PortlandPickelBallData.geojson'); // Corrected path
         if (geojsonData && geojsonData.features) {
             allCourtFeatures = geojsonData.features.map(feature => {
                 const courtInfo = parseCourtString(feature.properties['number of courts']);

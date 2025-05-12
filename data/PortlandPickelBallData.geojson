@@ -1,0 +1,3184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7437279,
+          45.3942716
+        ]
+      },
+      "properties": {
+        "name": "24 Hour Fitness (Tigard OR)",
+        "location": "17942 SW McEwan Rd, Tigard OR 97224",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8291304,
+          45.4390379
+        ]
+      },
+      "properties": {
+        "name": "24 HR Fitness (Beaverton OR)",
+        "location": "11100 SW Murray Scholls Pl, Beaverton OR 97007",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.496492,
+          45.6143731
+        ]
+      },
+      "properties": {
+        "name": "24-Hour Fitness - Columbia Tech Center (Vancouver WA)",
+        "location": "800 SE Tech Center Dr, Vancouver WA 98683",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9275439,
+          45.5222522
+        ]
+      },
+      "properties": {
+        "name": "53rd Ave Community Park (Hillsboro OR)",
+        "location": "300 NE 53rd Avenue, Hillsboro OR 97124",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.645733,
+          45.5630353
+        ]
+      },
+      "properties": {
+        "name": "Alberta Park (Portland OR)",
+        "location": "1905 NE Killingsworth , Portland Oregon 97211",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.594541523839,
+          45.4233510084796
+        ]
+      },
+      "properties": {
+        "name": "13801 SE Webster Rd. , Milwaukie OR 97222",
+        "location": "13801 SE Webster Rd. , Milwaukie OR 97222",
+        "number of courts": "8 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347285,
+          45.3089202
+        ]
+      },
+      "properties": {
+        "name": "All in Sportz (Estacada OR)",
+        "location": "2455 NW Campus Dr., Estacada OR 97023",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4273677,
+          45.514509
+        ]
+      },
+      "properties": {
+        "name": "Aspen Highlands Park (Gresham OR)",
+        "location": "295 NE 24th St, Gresham OR 97030",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.54258470953,
+          45.7838629389378
+        ]
+      },
+      "properties": {
+        "name": "300 W Main St, , Battle Ground, WA 98604",
+        "location": "300 W Main St, , Battle Ground, WA 98604",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7549073,
+          45.3888642
+        ]
+      },
+      "properties": {
+        "name": "Bay Club Portland (Tigard OR)",
+        "location": "18120 SW Lower Boones Ferry Road, Tigard OR 97224",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7768006,
+          45.4796836
+        ]
+      },
+      "properties": {
+        "name": "Beaverton Hoop YMCA (Beaverton OR)",
+        "location": "9685 SW Harvest Court, Beaverton OR 97005",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8377665,
+          45.5543145
+        ]
+      },
+      "properties": {
+        "name": "Bethany Athletic Club (Portland OR)",
+        "location": "15670 NW Central Dr, Portland, OR 97229, Portland OR 97223",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7329739,
+          45.3788908
+        ]
+      },
+      "properties": {
+        "name": "Bridgeport Elementary (Tualatin OR)",
+        "location": "5505 SW Borland Rd, Tualatin OR 97062",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Dedicated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3994077,
+          45.611644
+        ]
+      },
+      "properties": {
+        "name": "Camas High School (Camas WA)",
+        "location": "26900 SE 15th St. , Camas WA 98607",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Dedicated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8295699,
+          45.8584818
+        ]
+      },
+      "properties": {
+        "name": "Campbell Park (St. Helens OR)",
+        "location": "McMichael Ave, St Helens Oregon 97051",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "No",
+        "nets": "Dedicated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4650436,
+          45.5047844
+        ]
+      },
+      "properties": {
+        "name": "Cascade Athletic Club (Gresham OR)",
+        "location": "19201 SE Division St, Gresham Oregon 97030",
+        "number of courts": "2 Indoor/Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5278399,
+          45.6377722
+        ]
+      },
+      "properties": {
+        "name": "Cascade Middle School (Vancouver WA)",
+        "location": "13900 NE 18th St, Vancouver WA 98684",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8021478,
+          45.503036
+        ]
+      },
+      "properties": {
+        "name": "Cedar Hills Park Pickle Ball Courts (Beaverton OR)",
+        "location": "2300 SW Cedar Hills Blvd, Beaverton OR 97005",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7961444,
+          45.5066888
+        ]
+      },
+      "properties": {
+        "name": "Cedar Park Middle School (Portland OR)",
+        "location": "11100 SW Park Way, Portland OR 97225",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2705093,
+          45.3994325
+        ]
+      },
+      "properties": {
+        "name": "Cedar Ridge Middle School (Sandy OR)",
+        "location": "17100 SE Bluff Rd, Sandy OR 97055",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7558991,
+          45.2935956
+        ]
+      },
+      "properties": {
+        "name": "Charbonneau Private Res",
+        "location": "31267 SW French Prairie Rd., Wilsonville OR 97070",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9606657,
+          45.3069777
+        ]
+      },
+      "properties": {
+        "name": "Chehalem Aquatic and Fitness Ctr (Newberg OR)",
+        "location": "1802 Haworth Ave, Newberg Oregon 97132",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5611631,
+          45.505612
+        ]
+      },
+      "properties": {
+        "name": "Cherry Park LDS Church (Portland OR)",
+        "location": "9901 SE Caruthers St. , Portland OR 97266",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5461191,
+          45.7873457
+        ]
+      },
+      "properties": {
+        "name": "Chief Umtuch Middle School (Battleground WA)",
+        "location": "700 NW 9th St., Battle Ground Wa 98604",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6073826,
+          45.5022485
+        ]
+      },
+      "properties": {
+        "name": "Clinton City Park (Portland OR)",
+        "location": "5405 SE Woodward , Portland OR 97206",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5975956,
+          45.6765736
+        ]
+      },
+      "properties": {
+        "name": "Club Green Meadows (Vancouver WA)",
+        "location": "7703 NE 72nd Ave, Vancouver WA 98661",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5700975,
+          45.5240447
+        ]
+      },
+      "properties": {
+        "name": "Columbia Christian School (Portland OR)",
+        "location": "9101 East Burnside, Portland Oregon 97216",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7085787,
+          45.5795805
+        ]
+      },
+      "properties": {
+        "name": "Columbia Park (Portland OR)",
+        "location": "7701 N Chautauqua Blvd, Portland OR 97203",
+        "number of courts": "8 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5049213,
+          45.6324093
+        ]
+      },
+      "properties": {
+        "name": "Conboy Basketball/Pickleball (Vancouver WA)",
+        "location": "16303 NE 15th Street, Vancouver WA 98684",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8063645,
+          45.4486349
+        ]
+      },
+      "properties": {
+        "name": "Conestoga Recreational Center (Beaverton OR)",
+        "location": "9985 SW 125th Aven. , Beaverton OR 97008",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4086295,
+          45.5913903
+        ]
+      },
+      "properties": {
+        "name": "Crown Park (Camas WA)",
+        "location": "120 NE 17th Avenue, Camas WA 98607",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4785893,
+          45.4471595
+        ]
+      },
+      "properties": {
+        "name": "Dalzell Community Gym (Damascus OR)",
+        "location": "17951 SE Hemrich Rd. , Damascus OR 97089",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8378439,
+          45.5187251
+        ]
+      },
+      "properties": {
+        "name": "Dinking and Driving Club (Beaverton OR)",
+        "location": "15707 SW Walker Rd, Beaverton OR 97006",
+        "number of courts": "8 Indoor/Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3847577,
+          45.5180139
+        ]
+      },
+      "properties": {
+        "name": "East County Pickleball Courts (Troutdale OR)",
+        "location": "27100 SE Stark St, Troutdale OR 97060",
+        "number of courts": "12 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5532086,
+          45.515737
+        ]
+      },
+      "properties": {
+        "name": "East Portland Community Center (Portland OR)",
+        "location": "740 SE 106th Ave, Portland OR 97216",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6284931,
+          45.4642165
+        ]
+      },
+      "properties": {
+        "name": "Eastmoreland Sports (Sellwood OR)",
+        "location": "3015 SE Berkeley Pl, Portland OR 97202",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7658555,
+          45.3011958
+        ]
+      },
+      "properties": {
+        "name": "Edge Family Fitness (Wilsonville OR)",
+        "location": "30050 Town Center Loop W , Wilsonville Oregon 97070",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80408,
+          45.4796953
+        ]
+      },
+      "properties": {
+        "name": "Elsie Stuhr Center (Beaverton OR)",
+        "location": "5550 SW Hall Blvd., Beaverton OR 97005",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80408,
+          45.4796953
+        ]
+      },
+      "properties": {
+        "name": "Elsie Stuhr Park (Beaverton OR)",
+        "location": "5550 SW Hall Blvd , Beaverton OR 97005",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5833355,
+          45.4936576
+        ]
+      },
+      "properties": {
+        "name": "Essex Park (Portland OR)",
+        "location": "7730 SE Center St, Portland OR 97206",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3332086,
+          45.2936056
+        ]
+      },
+      "properties": {
+        "name": "Estacada Middle School (Estacada OR)",
+        "location": "500 NE Main St. , Estacada oregon 97023",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4633542,
+          45.6072053
+        ]
+      },
+      "properties": {
+        "name": "Evergreen Tennis (Camas WA)",
+        "location": "5225 NW 38th Ave, Camas WA 98607",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4481986,
+          45.7079562
+        ]
+      },
+      "properties": {
+        "name": "Fast Eddy's Pickleball",
+        "location": "11808 NE 219th Ave, Brush Prairie WA 98606",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.536305,
+          45.6260684
+        ]
+      },
+      "properties": {
+        "name": "Firstenburg Community Center (Vancouver WA)",
+        "location": "700 NE 136th Ave, Vancouver WA 98684",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.473493,
+          45.616457
+        ]
+      },
+      "properties": {
+        "name": "Fisher Basin Park (Vancouver WA)",
+        "location": "601 SE 192nd Ave, Vancouver Washington 98683",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.094068962638,
+          45.5097626086725
+        ]
+      },
+      "properties": {
+        "name": "2950 Taylor Way, Forest Grove OR 97116",
+        "location": "2950 Taylor Way, Forest Grove OR 97116",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.791409,
+          45.431698
+        ]
+      },
+      "properties": {
+        "name": "Fowler Middle School (Tigard OR)",
+        "location": "11095 SW Walnut St., Tigard Oregon 97223",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.705218948056,
+          45.5353557764049
+        ]
+      },
+      "properties": {
+        "name": "1737 NW 26th Ave, Portland OR 97210",
+        "location": "1737 NW 26th Ave, Portland OR 97210",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7231447,
+          45.4762321
+        ]
+      },
+      "properties": {
+        "name": "Gabriel Park (Portland OR)",
+        "location": "SW 45th & Vermont St, Portland OR 97219",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Dedicated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4406547,
+          45.6060857
+        ]
+      },
+      "properties": {
+        "name": "Gold Gym Camas",
+        "location": "2950 NW 38th Ave, Camas WA 98607",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3435032,
+          45.3123425
+        ]
+      },
+      "properties": {
+        "name": "Grace Crossing Bible Church (Estacada)",
+        "location": "29101 SE Eagle Creek Rd. , Estacada OR 97023",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4409117,
+          45.6078452
+        ]
+      },
+      "properties": {
+        "name": "Grass Valley Park (Camas, WA)",
+        "location": "3211 NW 38th Avenue, Camas WA 98607",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430331121501,
+          45.5060297640472
+        ]
+      },
+      "properties": {
+        "name": "1200 N. Main st, Gresham OR 97030",
+        "location": "1200 N. Main st, Gresham OR 97030",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3053372,
+          45.2938445
+        ]
+      },
+      "properties": {
+        "name": "Grounded Body",
+        "location": "17405 NW Panther Creek Rd, Carlton OR 97111",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6170415,
+          45.3692622
+        ]
+      },
+      "properties": {
+        "name": "Hammerle Park (West Linn)",
+        "location": "1505 Lewis Street, West Linn OR 97068",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5217777,
+          45.4504432
+        ]
+      },
+      "properties": {
+        "name": "Happy Valley Park (Happy Valley)",
+        "location": "13770 SE Ridgecrest Rd, Happy Valley OR 97086",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0402711,
+          45.513508
+        ]
+      },
+      "properties": {
+        "name": "Harleman Park",
+        "location": "S Heather St, Cornelius OR 97113",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6353713,
+          45.6264563
+        ]
+      },
+      "properties": {
+        "name": "Harney Elementary (Vancouver WA)",
+        "location": "3212 E Evergreen Blvd, Vancouver WA 98661",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3443263,
+          45.582335
+        ]
+      },
+      "properties": {
+        "name": "Hathaway Park Wolfe Courts (Washougal WA)",
+        "location": "732 25th Street, Washougal WA 98671",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9308884,
+          45.5235343
+        ]
+      },
+      "properties": {
+        "name": "Hidden Creek Community Center (Hillsboro OR)",
+        "location": "5100 NE Hidden Creek Drive, Hillsboro OR 97124",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9275439,
+          45.5222522
+        ]
+      },
+      "properties": {
+        "name": "Hidden Creek Park East Pickleball Courts (Hillsboro OR)",
+        "location": "300 NE 53rd Ave, Hillsboro OR 97123",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5951573,
+          45.3290411
+        ]
+      },
+      "properties": {
+        "name": "Hillendale Park (Oregon City)",
+        "location": "13216 Roseberry Ave, Oregon City OR 97045",
+        "number of courts": "8 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7096498,
+          45.5277998
+        ]
+      },
+      "properties": {
+        "name": "Hillside Community Center (NW Portland)",
+        "location": "653 NW Culpepper Terrace, Portland Oregon 97210",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4888242,
+          45.7379351
+        ]
+      },
+      "properties": {
+        "name": "Hockinson Administration Building",
+        "location": "17912 NE 159th St, Brush Prairie WA 98606",
+        "number of courts": "3 Indoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6604618,
+          45.8624496
+        ]
+      },
+      "properties": {
+        "name": "Holley Park",
+        "location": "1000 E 4th St, La Center WA 98629",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.783570809598,
+          45.361773034425
+        ]
+      },
+      "properties": {
+        "name": "10455 SW Ibach St, Tualatin OR 97062",
+        "location": "10455 SW Ibach St, Tualatin OR 97062",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6899498,
+          45.4771939
+        ]
+      },
+      "properties": {
+        "name": "Ida B. Wells-Barnett High School",
+        "location": "1151 SW Vermont Street, Portland OR 97219",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9771025,
+          45.3102929
+        ]
+      },
+      "properties": {
+        "name": "Jaquith Park (Newberg)",
+        "location": "1215 N Main St, Newberg OR 97132",
+        "number of courts": "12 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6539316,
+          45.5331981
+        ]
+      },
+      "properties": {
+        "name": "Jumbo's Pickleball (Portland OR)",
+        "location": "Above Barnes & Noble, 2320 Lloyd Center, Portland OR 97232",
+        "number of courts": "8 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8453186,
+          45.5285157
+        ]
+      },
+      "properties": {
+        "name": "Jumbo\u2019s Pickleball",
+        "location": "16340 NW Bethany Ct, Beaverton OR 97006",
+        "number of courts": "9 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7843437,
+          45.3955572
+        ]
+      },
+      "properties": {
+        "name": "Jurgens Park (Tualatin)",
+        "location": "17255 SW Jurgens Ave, Tualatin OR 97062",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6355936,
+          45.6796074
+        ]
+      },
+      "properties": {
+        "name": "Kings Way Christian School (Vancouver WA)",
+        "location": "3606 NE 78th St, Vancouver WA 98665",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4406547,
+          45.6060857
+        ]
+      },
+      "properties": {
+        "name": "Lacamas Athletic Club (Camas WA)",
+        "location": "2950 NW 38th Ave, Camas WA 98607",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0823207,
+          45.4229788
+        ]
+      },
+      "properties": {
+        "name": "LACE Center Gym",
+        "location": "39300 SW Laurelwood Road, Gaston OR 97119",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7032724,
+          45.426583
+        ]
+      },
+      "properties": {
+        "name": "Lake Oswego High School Lower Tennis Courts",
+        "location": "2501 Country Club Rd, Lake Oswego OR 97035",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6960084,
+          45.688598
+        ]
+      },
+      "properties": {
+        "name": "Lake Shore Athletic Club - Outside Courts",
+        "location": "2401 NW 94th Street, Vancouver WA 98665, Vancouver WA 98665",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6230693,
+          45.5193094
+        ]
+      },
+      "properties": {
+        "name": "Laurelhurst Park",
+        "location": "SE Cesar E Chavez Blvd & Stark St, Portland OR 97214",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5832732,
+          45.3908793
+        ]
+      },
+      "properties": {
+        "name": "LDS Church Gladstone",
+        "location": "8331 SE Cason Rd, Gladstone OR 97027",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5247986,
+          45.622461
+        ]
+      },
+      "properties": {
+        "name": "LDS Church Hearthwood Building",
+        "location": "220 NE Hearthwood Blvd., Vancouver WA 98684",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7310626,
+          45.4196697
+        ]
+      },
+      "properties": {
+        "name": "LDS Church Lake Oswego",
+        "location": "14903 West Lake Drive , Lake Oswego Oregon 97035",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2162033,
+          45.2262343
+        ]
+      },
+      "properties": {
+        "name": "LDS Church McMinnville",
+        "location": "1545 NW Baker Creek Rd, McMinnville OR 97128",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5262672,
+          45.6568505
+        ]
+      },
+      "properties": {
+        "name": "LDS Church Vancouver",
+        "location": "14219 NE 49th St, Vancouver WA 98682",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7590356,
+          45.3076371
+        ]
+      },
+      "properties": {
+        "name": "LDS Church Wilsonville",
+        "location": "29350 Southwest Town Center Loop East, Wilsonville OR 97070",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8430358,
+          45.1486555
+        ]
+      },
+      "properties": {
+        "name": "Legion Park (Woodburn)",
+        "location": "1385 Park Ave, Woodburn OR 97071",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5771012,
+          45.1494898
+        ]
+      },
+      "properties": {
+        "name": "Leonard Long Park (Molalla)",
+        "location": "270 N Molalla Ave, Molalla OR 97038",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5395654,
+          45.8159557
+        ]
+      },
+      "properties": {
+        "name": "Lewisville Regional Park (Battleground, WA)",
+        "location": "26411 NE Lewisville Highway , Battle Ground WA 98604",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6748652,
+          45.6525613
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Elementary School (Vancouver WA)",
+        "location": "4200 NW Daniels St, Vancouver WA 98660",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3791703,
+          45.5225237
+        ]
+      },
+      "properties": {
+        "name": "Llewellyn Park",
+        "location": "SE Evans St, Troutdale OR 97055",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.577113131318,
+          45.1496826916411
+        ]
+      },
+      "properties": {
+        "name": "270 Molalla Ave, Molalla OR 97038",
+        "location": "270 Molalla Ave, Molalla OR 97038",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6810309,
+          45.4075574
+        ]
+      },
+      "properties": {
+        "name": "LOUMC Gym (Lake Oswego)",
+        "location": "1855 South Shore Blvd. , Lake Oswego OR 97034",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8738489,
+          45.5327268
+        ]
+      },
+      "properties": {
+        "name": "Magnolia Park",
+        "location": "1810 NE 102nd Ave, Hillsboro OR 97124",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686137895636,
+          45.2721269506908
+        ]
+      },
+      "properties": {
+        "name": "1220 N Maple St, Canby OR 97013",
+        "location": "1220 N Maple St, Canby OR 97013",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6615845,
+          45.6322976
+        ]
+      },
+      "properties": {
+        "name": "Marshall/Luepke Community Center",
+        "location": "1009 E McLoughlin Blvd , Vancouver Washington 98663",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6649837,
+          45.5420945
+        ]
+      },
+      "properties": {
+        "name": "Matt Dishman Community Center (NE Portland)",
+        "location": "77 NE Knott St, Portland OR 97212",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5898622,
+          45.3827344
+        ]
+      },
+      "properties": {
+        "name": "Max Patterson Park (Gladstone)",
+        "location": "420 E. Exeter Street, Gladstone OR 97027",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7601912,
+          45.2985447
+        ]
+      },
+      "properties": {
+        "name": "Memorial Park (Wilsonville)",
+        "location": "8100 SW Wilsonville Rd, Wilsonville OR 97070",
+        "number of courts": "8 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.578044,
+          45.527821
+        ]
+      },
+      "properties": {
+        "name": "Montavilla Community Center (NE Portland)",
+        "location": "8219 NE Glisan St, Portland OR 97220",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5885719,
+          45.4823366
+        ]
+      },
+      "properties": {
+        "name": "Mount Scott Community Center (SE Portland)",
+        "location": "5530 SE 72nd Ave Portland, Portland Or 97206",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.716355,
+          45.4282815
+        ]
+      },
+      "properties": {
+        "name": "Mountain Park Racquet (Lake Oswego)",
+        "location": "3 Botticelli St, Lake Oswego OR 97035",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2819862,
+          45.4036874
+        ]
+      },
+      "properties": {
+        "name": "Mt Hood Athletic Club",
+        "location": "37095 US-26, Sandy OR 97055",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5997563,
+          45.5130848
+        ]
+      },
+      "properties": {
+        "name": "Mt Tabor Tennis Courts (West)",
+        "location": "6224 SE Main St, Portland, OR 97215, Portland OR 97215",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8365854,
+          45.4401301
+        ]
+      },
+      "properties": {
+        "name": "Murrayhill Recreation Association (Private)",
+        "location": "11010 SW Teal Blvd, Beaverton OR 97007",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7948209,
+          45.4448695
+        ]
+      },
+      "properties": {
+        "name": "Muslim Educational Trust (Tigard)",
+        "location": "10330 SW Scholls Ferry Rd, Tigard OR 97223",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9555359,
+          45.3017815
+        ]
+      },
+      "properties": {
+        "name": "Newberg Indoor Courts",
+        "location": "2401 E. Hancock St., Unit C-3, Newberg OR 97132",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.797246,
+          45.2103759
+        ]
+      },
+      "properties": {
+        "name": "North Marion High School (Aurora OR)",
+        "location": "20167 Grim Rd NE, Aurora OR 97002",
+        "number of courts": "16 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6235959,
+          45.5348948
+        ]
+      },
+      "properties": {
+        "name": "Northeast Community Center (Portland)",
+        "location": "1630 NE 38th Ave, Portland OR 97232",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4735785,
+          45.6237044
+        ]
+      },
+      "properties": {
+        "name": "Northwest Gospel Church (Vancouver WA)",
+        "location": "305 NE 192nd Ave, Vancouver WA 98684",
+        "number of courts": "2 Indoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6345011,
+          45.5286117
+        ]
+      },
+      "properties": {
+        "name": "Oregon Park",
+        "location": "NE Oregon St. & NE 30th Ave., Portland OR 97232",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.536562077958,
+          45.4038582958145
+        ]
+      },
+      "properties": {
+        "name": "12402 SE Jennifer St #190B, Clackamas OR 97015",
+        "location": "12402 SE Jennifer St #190B, Clackamas OR 97015",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8523835,
+          45.2709855
+        ]
+      },
+      "properties": {
+        "name": "O\u2019Brien Oasis",
+        "location": "34444, SW Ladd Hill Rd, Wilsonville OR 97070",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6096208,
+          45.6890778
+        ]
+      },
+      "properties": {
+        "name": "Padelhorn (Vancouver)",
+        "location": "9210 NE 62nd Avenue , Vancouver Washington 98665",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8501301,
+          45.5760259
+        ]
+      },
+      "properties": {
+        "name": "Parivar Park",
+        "location": "7765 NW 167th Ave, Portland (Bethany) OR 97229",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5409478,
+          45.5508789
+        ]
+      },
+      "properties": {
+        "name": "Parkrose Middle School (Portland)",
+        "location": "11800 NE Shaver St, Portland OR 97220",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.673617626995,
+          45.5696175063101
+        ]
+      },
+      "properties": {
+        "name": "700 N Rosa Parks Way, Portland OR 97217",
+        "location": "700 N Rosa Parks Way, Portland OR 97217",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7508556,
+          45.5980537
+        ]
+      },
+      "properties": {
+        "name": "Pier Park North Portland",
+        "location": "N Pier Park Place, Portland OR 97203",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.860521952116,
+          45.5660941319188
+        ]
+      },
+      "properties": {
+        "name": "17705 NW Springville Rd, Portland, Portland OR 97229",
+        "location": "17705 NW Springville Rd, Portland, Portland OR 97229",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7546652,
+          45.5914343
+        ]
+      },
+      "properties": {
+        "name": "Portland Tennis & Education",
+        "location": "7519 N Burlington Ave, Portland OR 97203",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6527933,
+          45.5254231
+        ]
+      },
+      "properties": {
+        "name": "Portland Tennis Center",
+        "location": "324 NE 12th Avenue , Portland OR 97232",
+        "number of courts": "8 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.807573,
+          45.32149
+        ]
+      },
+      "properties": {
+        "name": "Private - Deep Blu",
+        "location": "12340 SW Tooze Rd., Sherwood OR 97140",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.794959,
+          45.373751
+        ]
+      },
+      "properties": {
+        "name": "Private - Nitro Indoor",
+        "location": "11470 SW Amu , Tualatin OR 97062",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6807135,
+          45.6309106
+        ]
+      },
+      "properties": {
+        "name": "Private - Open House Ministries Gym",
+        "location": "905 W13th St, Vancouver WA 98680",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679991,
+          45.316527
+        ]
+      },
+      "properties": {
+        "name": "Private - Oregon Golf Club",
+        "location": "25700 SW Pete\u2019s Mountain Rd., West Linn OR 97068",
+        "number of courts": "10 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6764051,
+          45.6293909
+        ]
+      },
+      "properties": {
+        "name": "Private - Scott Kelley",
+        "location": "West Vancouver , Vancouver WA 98663",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6494723,
+          45.7320072
+        ]
+      },
+      "properties": {
+        "name": "Private - The Patio (Salmon Creek)",
+        "location": "2113 NE 154th CIR, Vancouver WA 98686",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6428133,
+          45.6700918
+        ]
+      },
+      "properties": {
+        "name": "Private CNP (Vancouver)",
+        "location": "2711 NE 68th St, Vancouver WA 98665",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3565706,
+          45.4649462
+        ]
+      },
+      "properties": {
+        "name": "Private Court",
+        "location": "8024 SE Short Road, Gresham Or 97080",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4952236,
+          45.5960244
+        ]
+      },
+      "properties": {
+        "name": "Private Court Fishers Landing",
+        "location": "3407 SE 172nd Avenue, Vancouver WA 98683",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51982,
+          45.27089
+        ]
+      },
+      "properties": {
+        "name": "Private Hickman Court",
+        "location": "23085 S Beavercreek Rd., Beavercreek OR 97004",
+        "number of courts": "2 Indoor/Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6231935,
+          45.469483
+        ]
+      },
+      "properties": {
+        "name": "Private Holy Family Gymnasium",
+        "location": "7425 SE Cesar E Chavez Blvd, Portland OR 97206",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6926274,
+          45.5215296
+        ]
+      },
+      "properties": {
+        "name": "Private Multnomah Athletic Club Indoor",
+        "location": "1849 SW Salmon Street, Portland OR 97205",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6926274,
+          45.5215296
+        ]
+      },
+      "properties": {
+        "name": "Private Multnomah Athletic Club Outdoor",
+        "location": "1849 SW Salmon Street, Portland OR 97205",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8238238,
+          45.3690465
+        ]
+      },
+      "properties": {
+        "name": "Private One Court Pickleball (Sherwood)",
+        "location": "14255 SW Galbreath Drive Suite C, Sherwood Oregon 97140",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6113586,
+          45.4232071
+        ]
+      },
+      "properties": {
+        "name": "Private Rosie Ranch",
+        "location": "5017 SE Aldercrest Rd, Milwaukie Oregon 97222",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.655799,
+          45.443503
+        ]
+      },
+      "properties": {
+        "name": "Private Whitman Chicken Coop",
+        "location": "11370 S Riverside, Portland OR 97219",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8395263,
+          45.2228229
+        ]
+      },
+      "properties": {
+        "name": "Public Courts",
+        "location": "Anywhere, Oregon, Anytown OR 97020",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.742158594986,
+          45.8161728064981
+        ]
+      },
+      "properties": {
+        "name": "510 Pioneer St, Ridgefield WA 98642",
+        "location": "510 Pioneer St, Ridgefield WA 98642",
+        "number of courts": "2 Indoor courts",
+        "lighted": "yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9027999,
+          45.5084114
+        ]
+      },
+      "properties": {
+        "name": "Reedville Creek Park",
+        "location": "7500 SE Frances St., Hillsboro OR 97123",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.714168108647,
+          45.7966800647904
+        ]
+      },
+      "properties": {
+        "name": "2630 S Hillhurst Rd , Ridgefield Washington 98642",
+        "location": "2630 S Hillhurst Rd , Ridgefield Washington 98642",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7843256,
+          45.4149603
+        ]
+      },
+      "properties": {
+        "name": "Rise Church (Formerly Calvin, Tigard OR)",
+        "location": "10445 SW Canterbury Lane, Tigard OR 97224",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8971232,
+          45.5604316
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek Landing Park",
+        "location": "Rock Creek Landing Park, 21450 NW Rock Creek Blvd, Portland, OR 97229, Portland OR 97229",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1029924,
+          45.5157777
+        ]
+      },
+      "properties": {
+        "name": "Rogers Park (Forest Grove)",
+        "location": "17th & Elm St., Forest Grove OR 97116",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9545012,
+          45.4963367
+        ]
+      },
+      "properties": {
+        "name": "Rood Bridge Park",
+        "location": "4000 SE Rood Bridge Park Rd., Hillsboro OR 97123",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.599442518782,
+          45.5375165847806
+        ]
+      },
+      "properties": {
+        "name": "NE 62nd Ave. and Tillamook Street, Portland OR 97213",
+        "location": "NE 62nd Ave. and Tillamook Street, Portland OR 97213",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.649796678388,
+          45.3689761152324
+        ]
+      },
+      "properties": {
+        "name": "Rosemont Ridge Middle School (West Linn)",
+        "location": "20001 Salamo Rd, West Linn, OR 97068, West LInn Oregon 97068",
+        "number of courts": "9 Indoor courts",
+        "lighted": "Lighted, Nets Provided",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6714042,
+          45.7224249
+        ]
+      },
+      "properties": {
+        "name": "Salmon Creek Indoor Sports (Vancouver WA)",
+        "location": "110 NW 139th Street, Vancouver WA 98685",
+        "number of courts": "8 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6672404,
+          45.5618663
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army (North Portland)",
+        "location": "5325 N Williams Ave, Portland OR 97217",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8266673,
+          45.6556966
+        ]
+      },
+      "properties": {
+        "name": "Sauvie Island School",
+        "location": "14445 NW Charlton Rd, Portland OR 97231",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.601430520118,
+          45.4914464914588
+        ]
+      },
+      "properties": {
+        "name": "6036 SE Foster Rd., Portland OR 97206",
+        "location": "6036 SE Foster Rd., Portland OR 97206",
+        "number of courts": "1 Indoor/Outdoor courts",
+        "lighted": "Lighted, Dedicated, Nets Provided",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.651221,
+          45.4648449
+        ]
+      },
+      "properties": {
+        "name": "Sellwood Community House",
+        "location": "1436 SE Spokane St , Portland OR 97202",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661064,
+          45.4661661
+        ]
+      },
+      "properties": {
+        "name": "Sellwood Park",
+        "location": "7900 SE Grand Ave, Portland Oregon 97202",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8665233,
+          45.3534038
+        ]
+      },
+      "properties": {
+        "name": "Sherwood YMCA",
+        "location": "23000 SW Pacific Hwy, Sherwood OR 97140",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9751164,
+          45.5153719
+        ]
+      },
+      "properties": {
+        "name": "Shute Park (Hillsboro)",
+        "location": "953 SE Maple St, Hillsboro OR 97123",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8338332,
+          45.3517226
+        ]
+      },
+      "properties": {
+        "name": "Snyder Park Sherwood",
+        "location": "15365 SW Sunset Blvd, Sherwood OR 97140",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7220406,
+          45.4758309
+        ]
+      },
+      "properties": {
+        "name": "Southwest Community Center (SW Portland)",
+        "location": "6820 SW 45th Ave, Portland Or 97219",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7521289,
+          45.5922121
+        ]
+      },
+      "properties": {
+        "name": "St. John's Community Center",
+        "location": "8427 N Central St., Portland OR 97203",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7546652,
+          45.5914343
+        ]
+      },
+      "properties": {
+        "name": "St. Johns Racquet Center",
+        "location": "7519 N Burlington Ave., Portland OR 97203",
+        "number of courts": "6 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863182,
+          45.6992942
+        ]
+      },
+      "properties": {
+        "name": "Stevenson High School",
+        "location": "350 NW Bulldog Dr, Stevenson WA 98648",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7865651,
+          45.4057538
+        ]
+      },
+      "properties": {
+        "name": "Summerfield 55+ Residential Community (Private Residents Only)",
+        "location": "10650 SW Summerfield Dr, Tigard OR 97224",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8096735,
+          45.4366549
+        ]
+      },
+      "properties": {
+        "name": "Summerlake Park (Tigard)",
+        "location": "11450 SW Winter Lake Dr, Tigard OR 97223",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6434364,
+          45.3635265
+        ]
+      },
+      "properties": {
+        "name": "Tanner Creek Park",
+        "location": "3456 Parker Road, West Linn OR 97080",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.655799,
+          45.443503
+        ]
+      },
+      "properties": {
+        "name": "The Coop",
+        "location": "11370 S Riverside Drive, Portland OR 97219",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8923873,
+          45.4413664
+        ]
+      },
+      "properties": {
+        "name": "The Farm",
+        "location": "10993 SW Grabhorn Dr, Beaverton OR 97007",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7428252,
+          45.3957064
+        ]
+      },
+      "properties": {
+        "name": "The Garage Sale Warehouse Pickleball Club",
+        "location": "17880 SW McEwan Rd, Lake Oswego OR 97035",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6437909,
+          45.539389
+        ]
+      },
+      "properties": {
+        "name": "The Irvington Club (NE Portland)",
+        "location": "2131 NE Thompson St., Portland OR 97212",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5785044,
+          45.5415349
+        ]
+      },
+      "properties": {
+        "name": "The People's Courts",
+        "location": "2700 NE 82nd Ave, Portland OR 97220",
+        "number of courts": "11 Indoor/Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7629738,
+          45.3864971
+        ]
+      },
+      "properties": {
+        "name": "Tualatin Community Park",
+        "location": "8515 SW Tualatin Rd, Tualatin OR 97062",
+        "number of courts": "6 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8367623,
+          45.5202509
+        ]
+      },
+      "properties": {
+        "name": "Tualatin Hills Athletic Center (Beaverton OR)",
+        "location": "50 NW 158th Ave, Beaverton OR 97006",
+        "number of courts": "8 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8378439,
+          45.5187251
+        ]
+      },
+      "properties": {
+        "name": "Tualatin Hills Babette Horenstein Tennis Center (The Bubble-Beaverton)",
+        "location": "15707 SW Walker Rd. , Beaverton OR 97006",
+        "number of courts": "8 Indoor/Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7400919,
+          45.3752361
+        ]
+      },
+      "properties": {
+        "name": "Tualatin Private Court",
+        "location": "19970 SW 61st Terrace, Tualatin OR 97062",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4969712,
+          45.7723789
+        ]
+      },
+      "properties": {
+        "name": "Tukes Valley Middle School",
+        "location": "20601 NE 167th Ave., Battle Ground WA 98604",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Dedicated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8523691,
+          45.1596069
+        ]
+      },
+      "properties": {
+        "name": "Tukwila HOA courts (Woodburn)",
+        "location": "2850 Hazelnut Dr, Woodburn OR 97071",
+        "number of courts": "3 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4515997,
+          45.6350492
+        ]
+      },
+      "properties": {
+        "name": "Two Creeks (Camas WA)",
+        "location": "7700 NW Payne St, Camas WA 98607",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7414625,
+          45.8171439
+        ]
+      },
+      "properties": {
+        "name": "Union Ridge Elementary",
+        "location": "330 N 5th Ave, Ridgefield WA 98642",
+        "number of courts": "2 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6158718,
+          45.6359807
+        ]
+      },
+      "properties": {
+        "name": "Vancouver Tennis Center",
+        "location": "5300 E 18th St, Vancouver WA 98685",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9435551,
+          46.1409037
+        ]
+      },
+      "properties": {
+        "name": "Vandercook Park",
+        "location": "2025 Louisiana St, Longview Washington 98632",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8248578,
+          45.5039776
+        ]
+      },
+      "properties": {
+        "name": "VillaSport Beaverton",
+        "location": "13900 SW Meridian St, Beaverton OR 97005",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7067574,
+          45.5335072
+        ]
+      },
+      "properties": {
+        "name": "Wallace Park (NW Portland)",
+        "location": "1540 NW 27th Avenue, Portland OR 97210",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.593082066696,
+          45.5053224287458
+        ]
+      },
+      "properties": {
+        "name": "6800 SE Division, Portland OR 97215",
+        "location": "6800 SE Division, Portland OR 97215",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Lighted,",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8001825,
+          45.5038665
+        ]
+      },
+      "properties": {
+        "name": "West Hills Racquet Club",
+        "location": "2200 SW Cedar Hills Blvd, Portland OR 97225",
+        "number of courts": "8 Indoor/Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6554223,
+          45.4436629
+        ]
+      },
+      "properties": {
+        "name": "Whitman Chicken Coop",
+        "location": "11370 SW Riverside Drive, Portland OR 97219",
+        "number of courts": "1 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6321757,
+          45.3585108
+        ]
+      },
+      "properties": {
+        "name": "Willamette Christian Church",
+        "location": "2738 Sunset Ave, West Linn OR 97068",
+        "number of courts": "1 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6497977,
+          45.364288
+        ]
+      },
+      "properties": {
+        "name": "Willamette Christian Church (West Linn)",
+        "location": "3153 S Brandywine Dr, West Linn OR 97068",
+        "number of courts": "3 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6521774,
+          45.342687
+        ]
+      },
+      "properties": {
+        "name": "Willamette Primary School (West Linn)",
+        "location": "1403 12th St, West Linn OR 97068",
+        "number of courts": "4 Indoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9221289,
+          45.303032
+        ]
+      },
+      "properties": {
+        "name": "Wine Country Pickleball Newberg",
+        "location": "31544 NE Corral Creek, Newberg OR 97132",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "Yes",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8612322,
+          45.1405767
+        ]
+      },
+      "properties": {
+        "name": "Woodburn City Courts",
+        "location": "190 OAK ST, Woodburn OR 97071",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7500476,
+          45.9056769
+        ]
+      },
+      "properties": {
+        "name": "Woodland Community Pickleball Courts",
+        "location": "700 Buckeye Street, Woodland WA 98674",
+        "number of courts": "4 Outdoor courts",
+        "lighted": "No",
+        "nets": "Provided"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6129317,
+          45.484708
+        ]
+      },
+      "properties": {
+        "name": "Woodstock Park (SE Portland)",
+        "location": "4810-4898 SE Steele St., Portland OR 97206",
+        "number of courts": "2 Outdoor courts",
+        "lighted": "No",
+        "nets": "Not Provided"
+      }
+    }
+  ]
+}
